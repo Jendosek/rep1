@@ -6,6 +6,6 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    cout << "Тут мав би бути текст першого завдання, але з попередніх домашніх в мене тільки скріни((";
+    cout << "Here should be the text of the first task, but I only have screenshots from the previous homeworks((";
 }
 
